@@ -3,6 +3,8 @@ Evaluating Synthetic Datatset Generation Techniques on One Class Classification 
 
 Final code is available in "ConflictOfInterest Copy.ipynb"
 
+*Image files for this project cannot be released except for academic purposes*
+
 In conjuction with 3D scanner, scAnt. The forked repository is available here: [Shepherd_ScAnt](https://github.com/vuejs/vue)
 and original here: [scAnt](https://github.com/vuejs/vue)
 
