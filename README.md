@@ -1,0 +1,2 @@
+# scantAI
+OCC for Ticks
